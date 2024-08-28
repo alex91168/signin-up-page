@@ -1,5 +1,5 @@
 <h1 align="center">
-    Login page - Using React 
+    Login page - ReactJs
 </h1>
 
 ![Resultado do projeto](preview-login.webp)
@@ -16,5 +16,4 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 
 - ReactJs;
 - Sass;
-- 
 ---
