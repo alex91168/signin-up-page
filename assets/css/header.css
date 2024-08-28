@@ -1,0 +1,1 @@
+header{display:flex;justify-content:center;align-items:center;position:relative;padding:10px;text-align:center;margin-bottom:20px}header img{width:80vw;height:95px;z-index:1}header #main-text{position:absolute;font-size:80px;top:43px;text-shadow:4px 4px 6px #8da8dd}@media(max-width: 450px){header img{width:98vw}}/*# sourceMappingURL=header.css.map */

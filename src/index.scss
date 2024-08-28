@@ -1,0 +1,15 @@
+@import './Modules/functions.scss';
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Minecraft', sans-serif;
+}
+
+body, html {
+  width: 100%;
+  height: 100%;
+  background: $bg-gradient;
+  color:$font-color-primary;
+}
