@@ -23,7 +23,7 @@ const Register = ({ setAction }) => {
         </div>
         <div className="button-box">
           <button onClick={() => setAction("login")}>Login</button>
-          <button >Cadastro</button>
+          <button >Criar</button>
         </div>
       </div>
     </div>
